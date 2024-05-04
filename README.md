@@ -46,6 +46,9 @@
   - The script data is in txt format.
   - The data is provided to VirtualHome2KG to generate videos and knowledge graphs.
   - A script includes the action title and a brief description in text format.
+- [Question&Answer](./QA)
+ - Question Answering data is in JSON format.
+ - The data is based on 20% parcially missing data.
 
 ## Explanation of Knowledge Graph
 ### Specification of Ontology
