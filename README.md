@@ -27,12 +27,12 @@
     - The directory name 200 indicates that the location is 20%, the action is 0%, and the object is 0% anonymized.
 
 ## Dataset_Composition
-- [Videos](./Movie)
+- [Videos](https://kgrc4si.home.kg/Movies/)
   - The videos are in mp4 format
-  - The videos consist of 709 action scenarios
+  - The videos consist of 706 action scenarios
   - For each scenario, there are three types of videos: a character rear view (file name ending in 0), an indoor camera switching view (file name ending in 1), and a fixed camera view placed in each corner of the room (file name ending in 2-5).
   - For each action scenario, we generated data for a minimum of 1 to a maximum of 7 patterns with different room layouts (scenes).
-  - In total, there are 1,224 videos.
+  - In total, there are 3,560 videos.
   - Videos with slowly moving characters simulate the movements of elderly people.
 
 - [Scene Graphs](./CompleteData/SceneGraph)
