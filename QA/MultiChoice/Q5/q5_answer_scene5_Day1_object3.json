@@ -1,0 +1,62 @@
+{
+    "id": 1714814935625,
+    "senario": "scene5_Day1",
+    "question": "What is he having at 00h-01m-46s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "CLOTHESSHIRT",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "CLOTHESPANTS",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "WINE",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

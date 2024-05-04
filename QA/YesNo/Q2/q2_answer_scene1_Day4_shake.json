@@ -1,0 +1,22 @@
+{
+    "id": 1714826671077,
+    "senario": "scene1_Day4",
+    "question": "Did he shake 3 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

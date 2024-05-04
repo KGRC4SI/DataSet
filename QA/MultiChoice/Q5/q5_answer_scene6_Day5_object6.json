@@ -1,0 +1,67 @@
+{
+    "id": 1714814936069,
+    "senario": "scene6_Day5",
+    "question": "What is he having at 00h-03m-54s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "CHIPS",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "SALMON",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "CHICKEN",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "CAT",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "TOWEL",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

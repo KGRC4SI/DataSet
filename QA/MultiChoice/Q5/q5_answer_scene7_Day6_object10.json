@@ -1,0 +1,92 @@
+{
+    "id": 1714814936403,
+    "senario": "scene7_Day6",
+    "question": "What is he having at 00h-08m-12s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "CEREAL",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "CELLPHONE",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "CELLPHONE",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "PAPER",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "CHICKEN",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "answer": "WASHINGSPONGE",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

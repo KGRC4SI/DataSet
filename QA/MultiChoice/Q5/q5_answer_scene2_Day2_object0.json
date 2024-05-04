@@ -1,0 +1,47 @@
+{
+    "id": 1714814934814,
+    "senario": "scene2_Day2",
+    "question": "What is he having at 00h-00m-07s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "WINEGLASS",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "BREADSLICE",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

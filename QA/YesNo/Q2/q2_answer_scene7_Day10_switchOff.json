@@ -1,0 +1,22 @@
+{
+    "id": 1714826674874,
+    "senario": "scene7_Day10",
+    "question": "Did he switchOff 7 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

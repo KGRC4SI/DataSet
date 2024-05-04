@@ -1,0 +1,72 @@
+{
+    "id": 1714814935602,
+    "senario": "scene4_Day10",
+    "question": "What is he having at 00h-00m-09s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "CEREAL",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "CREAMYBUNS",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "TOOTHBRUSH",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "CUTLERYKNIFE",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "BARSOAP",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "CARROT",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "WASHINGSPONGE",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "answer": "CUTLERYKNIFE",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "TOOTHPASTE",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

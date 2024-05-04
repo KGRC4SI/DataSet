@@ -1,0 +1,102 @@
+{
+    "id": 1714814936035,
+    "senario": "scene6_Day4",
+    "question": "What is he having at 00h-00m-16s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "MOUSE",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "JUICE",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "CAT",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "KEYBOARD",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "PILLOW",
+            "correct": true
+        },
+        {
+            "id": 10,
+            "answer": "SALAD",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "KEYBOARD",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "answer": "JUICE",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "MOUSE",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 17,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "answer": "PILLOW",
+            "correct": true
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

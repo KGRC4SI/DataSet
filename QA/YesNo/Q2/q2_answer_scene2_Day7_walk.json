@@ -1,0 +1,22 @@
+{
+    "id": 1714826671759,
+    "senario": "scene2_Day7",
+    "question": "Did he walk 31 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

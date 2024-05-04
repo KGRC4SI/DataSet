@@ -1,0 +1,22 @@
+{
+    "id": 1714826673728,
+    "senario": "scene6_Day1",
+    "question": "How many times did he walk?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": 62,
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": 63,
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "action"
+    ],
+    "category": "quantitative"
+}

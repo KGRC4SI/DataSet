@@ -1,0 +1,142 @@
+{
+    "id": 1714814935421,
+    "senario": "scene4_Day3",
+    "question": "What is he having at 00h-00m-21s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "CUTLERYKNIFE",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "CARROT",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "FRYINGPAN",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "CUTLERYKNIFE",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "JUICE",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "CHICKEN",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "SALMON",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "answer": "JUICE",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 17,
+            "answer": "TOOTHBRUSH",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 19,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 20,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 21,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 22,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 23,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 24,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 25,
+            "answer": "CHICKEN",
+            "correct": false
+        },
+        {
+            "id": 26,
+            "answer": "WINE",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

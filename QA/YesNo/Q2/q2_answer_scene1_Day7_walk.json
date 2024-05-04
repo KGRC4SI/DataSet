@@ -1,0 +1,22 @@
+{
+    "id": 1714826671212,
+    "senario": "scene1_Day7",
+    "question": "Did he walk 90 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

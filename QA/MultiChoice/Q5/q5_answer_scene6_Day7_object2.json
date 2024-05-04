@@ -1,0 +1,42 @@
+{
+    "id": 1714814936113,
+    "senario": "scene6_Day7",
+    "question": "What is he having at 00h-01m-12s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "CRACKERS",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "WATERGLASS",
+            "correct": true
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

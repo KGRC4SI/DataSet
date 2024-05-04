@@ -1,0 +1,102 @@
+{
+    "id": 1714814936270,
+    "senario": "scene7_Day3",
+    "question": "What is he having at 00h-01m-00s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "MILK",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "MILK",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "CUTLERYFORK",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "CHICKEN",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "WASHINGSPONGE",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "answer": "CEREAL",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "answer": "SALAD",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "answer": "MILK",
+            "correct": true
+        },
+        {
+            "id": 17,
+            "answer": "PAPER",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "answer": "WATERGLASS",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

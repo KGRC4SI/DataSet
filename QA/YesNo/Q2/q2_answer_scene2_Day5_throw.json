@@ -1,0 +1,22 @@
+{
+    "id": 1714826671681,
+    "senario": "scene2_Day5",
+    "question": "Did he throw 2 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

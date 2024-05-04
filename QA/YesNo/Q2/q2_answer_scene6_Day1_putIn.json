@@ -1,0 +1,22 @@
+{
+    "id": 1714826673769,
+    "senario": "scene6_Day1",
+    "question": "Did he putIn 2 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

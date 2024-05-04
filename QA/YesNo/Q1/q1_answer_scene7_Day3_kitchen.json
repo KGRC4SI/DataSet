@@ -1,0 +1,22 @@
+{
+    "id": 1714826242200,
+    "senario": "scene7_Day3",
+    "question": "Did he enter the kitchen Answer0(name=kitchen56_scene7, number=7).number times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

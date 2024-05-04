@@ -1,0 +1,92 @@
+{
+    "id": 1714814935998,
+    "senario": "scene6_Day2",
+    "question": "What is he having at 00h-04m-41s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "WASHINGSPONGE",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "CARROT",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "MOUSE",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "answer": "KEYBOARD",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "SALAD",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 12,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "answer": "TOWEL",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

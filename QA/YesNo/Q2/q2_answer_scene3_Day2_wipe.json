@@ -1,0 +1,22 @@
+{
+    "id": 1714826672053,
+    "senario": "scene3_Day2",
+    "question": "Did he wipe 4 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

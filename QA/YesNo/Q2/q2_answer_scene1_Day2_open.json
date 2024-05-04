@@ -1,0 +1,22 @@
+{
+    "id": 1714826670980,
+    "senario": "scene1_Day2",
+    "question": "Did he open 2 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

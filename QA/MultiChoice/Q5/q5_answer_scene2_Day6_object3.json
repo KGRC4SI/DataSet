@@ -1,0 +1,87 @@
+{
+    "id": 1714814934900,
+    "senario": "scene2_Day6",
+    "question": "What is he having at 00h-01m-36s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "WASHINGSPONGE",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "SALAD",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "WINEGLASS",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "WINEGLASS",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "answer": "CUPCAKE",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "WINEGLASS",
+            "correct": true
+        },
+        {
+            "id": 13,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "WINEGLASS",
+            "correct": true
+        },
+        {
+            "id": 15,
+            "answer": "POTATO",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

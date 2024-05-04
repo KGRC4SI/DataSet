@@ -1,0 +1,22 @@
+{
+    "id": 1714826672231,
+    "senario": "scene3_Day5",
+    "question": "Did he switchOn 5 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

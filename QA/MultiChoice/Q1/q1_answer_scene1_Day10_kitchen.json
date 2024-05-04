@@ -1,0 +1,22 @@
+{
+    "id": 1714826241020,
+    "senario": "scene1_Day10",
+    "question": "How many times did he enter the kitchen?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": 15,
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": 16,
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "location"
+    ],
+    "category": "quantitative"
+}

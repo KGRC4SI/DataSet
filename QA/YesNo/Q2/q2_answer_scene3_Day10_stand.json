@@ -1,0 +1,22 @@
+{
+    "id": 1714826672565,
+    "senario": "scene3_Day10",
+    "question": "Did he stand 4 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

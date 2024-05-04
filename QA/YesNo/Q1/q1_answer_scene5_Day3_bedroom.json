@@ -1,0 +1,22 @@
+{
+    "id": 1714826241702,
+    "senario": "scene5_Day3",
+    "question": "Did he enter the bedroom 9 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

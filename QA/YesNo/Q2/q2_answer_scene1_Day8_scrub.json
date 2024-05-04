@@ -1,0 +1,22 @@
+{
+    "id": 1714826671303,
+    "senario": "scene1_Day8",
+    "question": "Did he scrub 3 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

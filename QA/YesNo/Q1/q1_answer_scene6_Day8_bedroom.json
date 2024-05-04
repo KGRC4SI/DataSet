@@ -1,0 +1,22 @@
+{
+    "id": 1714826242087,
+    "senario": "scene6_Day8",
+    "question": "Did he enter the bedroom Answer0(name=bedroom70_scene6, number=12).number times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

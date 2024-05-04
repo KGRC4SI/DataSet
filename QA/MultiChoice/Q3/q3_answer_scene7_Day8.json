@@ -1,0 +1,22 @@
+{
+    "id": 1714827159776,
+    "senario": "scene7_Day8",
+    "question": "What did he do after he first entered the kitchen?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "GRAB",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "READ",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "action"
+    ],
+    "category": "descriptive"
+}

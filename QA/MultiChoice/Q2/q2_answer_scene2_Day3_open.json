@@ -1,0 +1,22 @@
+{
+    "id": 1714826671560,
+    "senario": "scene2_Day3",
+    "question": "How many times did he open?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": 3,
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": 4,
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "action"
+    ],
+    "category": "quantitative"
+}

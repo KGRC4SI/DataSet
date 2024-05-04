@@ -1,0 +1,22 @@
+{
+    "id": 1714826673389,
+    "senario": "scene5_Day5",
+    "question": "Did he close 4 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

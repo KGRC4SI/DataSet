@@ -1,0 +1,22 @@
+{
+    "id": 1714826240970,
+    "senario": "scene1_Day8",
+    "question": "Did he enter the livingroom 6 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

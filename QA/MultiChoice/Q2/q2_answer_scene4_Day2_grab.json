@@ -1,0 +1,22 @@
+{
+    "id": 1714826672669,
+    "senario": "scene4_Day2",
+    "question": "How many times did he grab?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": 9,
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": 10,
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "action"
+    ],
+    "category": "quantitative"
+}

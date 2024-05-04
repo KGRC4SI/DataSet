@@ -1,0 +1,22 @@
+{
+    "id": 1714826671462,
+    "senario": "scene2_Day1",
+    "question": "How many times did he switchOff?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": 2,
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": 3,
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "action"
+    ],
+    "category": "quantitative"
+}

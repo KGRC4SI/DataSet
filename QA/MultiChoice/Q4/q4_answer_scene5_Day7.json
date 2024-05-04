@@ -1,0 +1,22 @@
+{
+    "id": 1714811985491,
+    "senario": "scene5_Day7",
+    "question": "What did he do just before he first entered the kitchen?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "WALK",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "READ",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "action"
+    ],
+    "category": "descriptive"
+}

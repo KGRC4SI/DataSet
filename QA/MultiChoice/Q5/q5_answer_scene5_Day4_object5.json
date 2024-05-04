@@ -1,0 +1,72 @@
+{
+    "id": 1714814935728,
+    "senario": "scene5_Day4",
+    "question": "What is he having at 00h-03m-28s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "JUICE",
+            "correct": true
+        },
+        {
+            "id": 7,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "CHOCOLATESYRUP",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "JUICE",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "WATERGLASS",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

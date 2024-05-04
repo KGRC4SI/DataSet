@@ -1,0 +1,72 @@
+{
+    "id": 1714814934959,
+    "senario": "scene2_Day8",
+    "question": "What is he having at 00h-05m-57s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "WINEGLASS",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "answer": "CARROT",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "answer": "POTATO",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "WINEGLASS",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "WINEGLASS",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

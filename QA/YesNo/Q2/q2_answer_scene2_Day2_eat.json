@@ -1,0 +1,22 @@
+{
+    "id": 1714826671519,
+    "senario": "scene2_Day2",
+    "question": "Did he eat 2 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

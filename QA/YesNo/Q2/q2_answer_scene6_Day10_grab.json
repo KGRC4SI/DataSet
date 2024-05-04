@@ -1,0 +1,22 @@
+{
+    "id": 1714826674227,
+    "senario": "scene6_Day10",
+    "question": "Did he grab 21 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

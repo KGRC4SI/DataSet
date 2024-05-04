@@ -1,0 +1,22 @@
+{
+    "id": 1714826671175,
+    "senario": "scene1_Day6",
+    "question": "Did he fold 1 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

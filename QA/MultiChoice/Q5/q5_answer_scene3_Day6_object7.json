@@ -1,0 +1,87 @@
+{
+    "id": 1714814935206,
+    "senario": "scene3_Day6",
+    "question": "What is he having at 00h-03m-26s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "PLATE",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "CUTLERYKNIFE",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "CUPCAKE",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "TOOTHBRUSH",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "CUTLERYFORK",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "CHOCOLATESYRUP",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "CAT",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "answer": "WINEGLASS",
+            "correct": true
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

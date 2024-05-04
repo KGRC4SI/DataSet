@@ -1,0 +1,67 @@
+{
+    "id": 1714814936420,
+    "senario": "scene7_Day7",
+    "question": "What is he having at 00h-05m-52s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "WINEGLASS",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "SALMON",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "TOOTHBRUSH",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "answer": "FACECREAM",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "TOOTHPASTE",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "CARROT",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "CRACKERS",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "CHICKEN",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "SALMON",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

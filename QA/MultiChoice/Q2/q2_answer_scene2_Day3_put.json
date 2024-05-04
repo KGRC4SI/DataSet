@@ -1,0 +1,22 @@
+{
+    "id": 1714826671555,
+    "senario": "scene2_Day3",
+    "question": "How many times did he put?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": 9,
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": 10,
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "action"
+    ],
+    "category": "quantitative"
+}

@@ -1,0 +1,52 @@
+{
+    "id": 1714814936015,
+    "senario": "scene6_Day3",
+    "question": "What is he having at 00h-01m-43s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "MILK",
+            "correct": true
+        },
+        {
+            "id": 5,
+            "answer": "SLIPPERS",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "SALAD",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "POTATO",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

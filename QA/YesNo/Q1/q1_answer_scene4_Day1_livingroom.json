@@ -1,0 +1,22 @@
+{
+    "id": 1714826241403,
+    "senario": "scene4_Day1",
+    "question": "Did he enter the livingroom Answer0(name=livingroom274_scene4, number=1).number times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

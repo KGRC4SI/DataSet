@@ -1,0 +1,22 @@
+{
+    "id": 1714827159287,
+    "senario": "scene4_Day3",
+    "question": "Did he OPEN after he first entered the kitchen?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "action"
+    ],
+    "category": "descriptive"
+}

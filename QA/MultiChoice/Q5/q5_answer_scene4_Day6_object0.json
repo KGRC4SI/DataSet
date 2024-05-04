@@ -1,0 +1,102 @@
+{
+    "id": 1714814935504,
+    "senario": "scene4_Day6",
+    "question": "What is he having at 00h-00m-16s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "TOOTHBRUSH",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "JUICE",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "TOOTHPASTE",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "JUICE",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "answer": "JUICE",
+            "correct": true
+        },
+        {
+            "id": 10,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "CREAMYBUNS",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "answer": "JUICE",
+            "correct": true
+        },
+        {
+            "id": 16,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 17,
+            "answer": "WASHINGSPONGE",
+            "correct": false
+        },
+        {
+            "id": 18,
+            "answer": "JUICE",
+            "correct": true
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

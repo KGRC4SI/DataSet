@@ -1,0 +1,22 @@
+{
+    "id": 1714826241580,
+    "senario": "scene4_Day8",
+    "question": "Did he enter the toilet 4 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

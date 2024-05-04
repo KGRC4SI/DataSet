@@ -1,0 +1,22 @@
+{
+    "id": 1714826240793,
+    "senario": "scene1_Day1",
+    "question": "Did he enter the bathroom Answer0(name=bathroom11_scene1, number=2).number times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

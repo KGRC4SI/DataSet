@@ -1,0 +1,22 @@
+{
+    "id": 1714827159583,
+    "senario": "scene6_Day4",
+    "question": "Did he GRAB after he first entered the kitchen?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "action"
+    ],
+    "category": "descriptive"
+}

@@ -1,0 +1,72 @@
+{
+    "id": 1714814934920,
+    "senario": "scene2_Day7",
+    "question": "What is he having at 00h-01m-18s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "CUTLERYKNIFE",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "PLATE",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "SALMON",
+            "correct": true
+        },
+        {
+            "id": 4,
+            "answer": "CEREAL",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "WINEGLASS",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "CUTLERYFORK",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "WINE",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "REMOTECONTROL",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

@@ -1,0 +1,67 @@
+{
+    "id": 1714814935486,
+    "senario": "scene4_Day5",
+    "question": "What is he having at 00h-00m-40s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "CRACKERS",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "BOX",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "TOWEL",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "TOOTHPASTE",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "ALCOHOL",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "CUTLERYFORK",
+            "correct": true
+        },
+        {
+            "id": 10,
+            "answer": "CUTLERYFORK",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "answer": "TOOTHBRUSH",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1714826240850,
+    "senario": "scene1_Day3",
+    "question": "How many times did he enter the livingroom?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": 6,
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": 7,
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "location"
+    ],
+    "category": "quantitative"
+}

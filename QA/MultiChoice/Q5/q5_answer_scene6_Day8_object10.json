@@ -1,0 +1,72 @@
+{
+    "id": 1714814936141,
+    "senario": "scene6_Day8",
+    "question": "What is he having at 00h-06m-50s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "SALMON",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "CUPCAKE",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "REMOTECONTROL",
+            "correct": true
+        },
+        {
+            "id": 6,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "SALMON",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "REMOTECONTROL",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "answer": "MILK",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "WATERGLASS",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

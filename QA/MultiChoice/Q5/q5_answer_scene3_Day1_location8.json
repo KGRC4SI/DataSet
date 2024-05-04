@@ -1,0 +1,32 @@
+{
+    "id": 1714814238086,
+    "senario": "scene3_Day1",
+    "question": "Where is he at 00h-06m-29s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "livingroom",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "bathroom",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "kitchin",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "bedroom",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

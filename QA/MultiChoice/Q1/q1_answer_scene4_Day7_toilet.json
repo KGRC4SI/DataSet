@@ -1,0 +1,22 @@
+{
+    "id": 1714826241556,
+    "senario": "scene4_Day7",
+    "question": "How many times did he enter the toilet?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": 5,
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": 6,
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "location"
+    ],
+    "category": "quantitative"
+}

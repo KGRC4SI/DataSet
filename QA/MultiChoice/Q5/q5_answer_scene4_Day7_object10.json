@@ -1,0 +1,72 @@
+{
+    "id": 1714814935543,
+    "senario": "scene4_Day7",
+    "question": "What is he having at 00h-09m-40s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "TOOTHBRUSH",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "answer": "BOX",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "WINEGLASS",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "BARSOAP",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "NOTES",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "WASHINGSPONGE",
+            "correct": false
+        },
+        {
+            "id": 8,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 9,
+            "answer": "BREADSLICE",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "WATERGLASS",
+            "correct": true
+        },
+        {
+            "id": 11,
+            "answer": "WINEGLASS",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "BOOK",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

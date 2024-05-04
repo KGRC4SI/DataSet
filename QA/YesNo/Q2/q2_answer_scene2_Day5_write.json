@@ -1,0 +1,22 @@
+{
+    "id": 1714826671675,
+    "senario": "scene2_Day5",
+    "question": "Did he write 1 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": false
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}

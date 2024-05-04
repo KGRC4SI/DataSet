@@ -1,0 +1,92 @@
+{
+    "id": 1714814935479,
+    "senario": "scene4_Day4",
+    "question": "What is he having at 00h-08m-42s from the beginning?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "PILLOW",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "FRYINGPAN",
+            "correct": true
+        },
+        {
+            "id": 3,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "answer": "CHICKEN",
+            "correct": false
+        },
+        {
+            "id": 5,
+            "answer": "SALAD",
+            "correct": false
+        },
+        {
+            "id": 6,
+            "answer": "BOOK",
+            "correct": false
+        },
+        {
+            "id": 7,
+            "answer": "FRYINGPAN",
+            "correct": true
+        },
+        {
+            "id": 8,
+            "answer": "WATERGLASS",
+            "correct": false
+        },
+        {
+            "id": 9,
+            "answer": "TOOTHBRUSH",
+            "correct": false
+        },
+        {
+            "id": 10,
+            "answer": "PLATE",
+            "correct": false
+        },
+        {
+            "id": 11,
+            "answer": "TOOTHBRUSH",
+            "correct": false
+        },
+        {
+            "id": 12,
+            "answer": "PLATE",
+            "correct": false
+        },
+        {
+            "id": 13,
+            "answer": "WASHINGSPONGE",
+            "correct": false
+        },
+        {
+            "id": 14,
+            "answer": "CHICKEN",
+            "correct": false
+        },
+        {
+            "id": 15,
+            "answer": "NOTES",
+            "correct": false
+        },
+        {
+            "id": 16,
+            "answer": "POTATO",
+            "correct": false
+        }
+    ],
+    "questionType": "multipleChoice",
+    "subjects": [
+        "object"
+    ],
+    "category": "descriptive"
+}

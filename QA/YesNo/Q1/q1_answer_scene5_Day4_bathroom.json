@@ -1,0 +1,22 @@
+{
+    "id": 1714826241738,
+    "senario": "scene5_Day4",
+    "question": "Did he enter the bathroom 4 times?",
+    "answers": [
+        {
+            "id": 1,
+            "answer": "Yes",
+            "correct": false
+        },
+        {
+            "id": 2,
+            "answer": "No",
+            "correct": true
+        }
+    ],
+    "questionType": "Yes/No",
+    "subjects": [
+        "location"
+    ],
+    "category": "descriptive"
+}
