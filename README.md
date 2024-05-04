@@ -38,6 +38,7 @@
 - [Scene Graphs](./CompleteData/SceneGraph)
   - The scene graphs are in Action Genome format.
 - [Knowledge Graphs](./CompleteData/RDF)
+  - The annotation of the movie is provided as Knowledge Graph.
   - The knowledge graphs are in RDF format.
   - The knowledge graphs consist of 709 knowledge graphs corresponding to videos, along with their their schema and location supplement information
   - The schema is described below
