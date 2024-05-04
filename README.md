@@ -27,7 +27,7 @@
     - The directory name 200 indicates that the location is 20%, the action is 0%, and the object is 0% anonymized.
 
 ## Dataset_Composition
-- [Videos](https://kgrc4si.home.kg/Movies/)
+- [Videos](https://kgrc4si.home.kg/Movie/)
   - The videos are in mp4 format
   - The videos consist of 706 action scenarios
   - For each scenario, there are three types of videos: a character rear view (file name ending in 0), an indoor camera switching view (file name ending in 1), and a fixed camera view placed in each corner of the room (file name ending in 2-5).
